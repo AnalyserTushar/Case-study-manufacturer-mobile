@@ -1,1 +1,1 @@
-# Case-study-manufacturer-mobile use sql skill to practicce
+# Case-study-manufacturer-mobile
